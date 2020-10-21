@@ -1,0 +1,23 @@
+{
+  "name": "react-plants",
+  "private": true,
+  "description": "A simple game created to practice using React.js, about taking care of plants.",
+  "scripts": {
+    "start": "npx parcel-bundler index.html",
+    "build": "npx parcel-bundler build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloewen8/React-Plants.git"
+  },
+  "author": "Colton Loewen",
+  "bugs": {
+    "url": "https://github.com/cloewen8/React-Plants/issues"
+  },
+  "homepage": "https://cj-does-stuff.itch.io/react-plants",
+  "devDependencies": {
+    "parcel-bundler": "~1.12.4",
+    "react": "~17.0.0",
+    "react-dom": "~17.0.0"
+  }
+}
